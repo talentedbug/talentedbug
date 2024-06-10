@@ -9,7 +9,6 @@ I'm a ...
 - **Student** who failed to apply for GitHub Student Pack. : (
 - **C++er** who both creates projects and uses it to take part in OI contest.
 - **Linuxer** who works on Linux and loves open source.
-- **Tulian** who is the leader of [Tulin](https://tulin.netlify.app), a group working to improve inclusivity in Chinese schools.
 
 # Contact Me
 
