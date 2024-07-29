@@ -19,7 +19,7 @@ Or, you can contact me privately via ...
 - Email: [talentedbug@tutamail.com](mailto:talentedbug@tutamail.com)
 - Reddit: [u/talentedbug](https://reddit.com/u/talentedbug)
 
-Please turn to my blog, [Recycle Bin](https://recycle-bin.netlify.app), for more about me.
+Please turn to my blog, ~~[Recycle Bin](https://recycle-bin.netlify.app)~~(Down for now), for more about me.
 
 # Fun
 
