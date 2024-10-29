@@ -2,7 +2,7 @@ Hi everyone!
 
 I'm **Talented Bug**, a senior high student based in China.
 
-# Tags about Me
+# Tags About Me
 
 I'm a ...
 
@@ -19,7 +19,7 @@ Or, you can contact me privately via ...
 - Email: [talentedbug@tutamail.com](mailto:talentedbug@tutamail.com)
 - Reddit: [u/talentedbug](https://reddit.com/u/talentedbug)
 
-Please turn to my blog, ~~[Recycle Bin](https://recycle-bin.netlify.app)~~(Down for now), for more about me.
+Please turn to my blog, [Bug Barrel](https://bug-barrel.top), for more about me.
 
 # Fun
 
